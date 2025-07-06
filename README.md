@@ -1,4 +1,4 @@
-# 🏕️ CampCreeks - Ultimate Campground Discovery Platform
+# 🏕️ CampCreeks - Your Campground Discovery Hub
 
 <div align="center">
   
